@@ -1,0 +1,15 @@
+body{
+  display: contents;
+  text-align: center;
+  background-color: #001a8183;
+  color: blue;
+}
+.container{
+  
+  margin: 1px;
+  padding: 1px;
+}
+.Aside{
+  padding: 5px;
+  margin: 5px;
+}
